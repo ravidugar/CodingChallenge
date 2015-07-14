@@ -47,7 +47,7 @@ public class Program {
 	
 	/**
 	 * this method is used to find the token present in the string
-	 * @param line
+	 * @param tweet
 	 */
 	private static void tokennize(String tweet) {
 		String[] words = split(tweet);
